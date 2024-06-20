@@ -10,4 +10,4 @@
   "universalLink": "https://app.tonkeeper.com/ton-connect"
 
 
-  https://davidishe.github.io/metadata/metadata.json
+  https://davidishe.github.io/metadata/tonconnect-manifest.json
