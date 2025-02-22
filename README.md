@@ -11,3 +11,6 @@
 
 
   https://davidishe.github.io/metadata/tonconnect-manifest.json
+
+  https://davidishe.github.io/metadata/content/white_paper_eng.pdf
+  https://davidishe.github.io/metadata/content/white_paper_rus.pdf
